@@ -14,7 +14,7 @@ web service -
 GET 127.0.0.1:5000/language
 
 {
-    "_id": "55c0343a45dcda5811044ba4",
+     "_id": "55c0343a45dcda5811044ba4",
     
      "name": "C",
     
@@ -31,8 +31,8 @@ GET 127.0.0.1:5000/language
 GET 127.0.0.1:5000/language/55c0343a45dcda5811044ba4
 
 {
-    "_id": "55c0343a45dcda5811044ba4",
-    
+     "_id": "55c0343a45dcda5811044ba4",
+     
      "name": "C",
     
      "paradigm": "estruturada e imperativa",
@@ -59,12 +59,12 @@ PUT 127.0.0.1:5000/language
 
 
 {
-    "_id": "55c0343a45dcda5811044ba4",
-    
+     "_id": "55c0343a45dcda5811044ba4",
+     
      "name": "C",
-    
+     
      "paradigm": "estruturada e imperativa",
-   
+    
      "author": "Dennis Ritchie",
     
 }
